@@ -17,6 +17,7 @@ Merkle_Tree_following_RFC6962
 # 实验结果
 在本次实验中，我加密了10000个数据，这10000个数字都是随机生成的
 
+![Screenshot 2022-07-31 105620](https://user-images.githubusercontent.com/104854836/182007870-9fe177b3-7f92-4f7c-9644-d4d3e0845eb5.jpg)
 
 
 
